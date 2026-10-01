@@ -12,7 +12,7 @@ keep complex systems reliable and easy to run.
 - [hermes-safe-update](https://github.com/cloudn8ive/hermes-safe-update): a careful
   updater for the Hermes Agent desktop app (Windows; macOS and Linux builds untested).
   It waits for running work, verifies the result, and includes a workaround that backs
-  up and carries desktop settings over when an update moves them (an upstream bug).
+  up and carries desktop settings over when an update moves them (after an upstream change that was later reverted).
 
 **Tools I use**
 
