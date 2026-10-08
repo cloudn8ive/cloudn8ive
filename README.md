@@ -6,7 +6,7 @@ keep complex systems reliable and easy to run.
 ### What I work on
 - AI agents and the tooling around them: orchestration, observability, guardrails
 - Cloud infrastructure and automation
-- Windows and cross-platform utilities in Go, Rust and Python
+- Windows and cross-platform utilities in Go, Rust, and Python
 
 ### Featured repository
 - [hermes-safe-update](https://github.com/cloudn8ive/hermes-safe-update): a careful
