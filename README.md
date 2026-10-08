@@ -8,7 +8,7 @@ keep complex systems reliable and easy to run.
 - Cloud infrastructure and automation
 - Windows and cross-platform utilities in Go, Rust and Python
 
-### Projects
+### Featured repository
 - [hermes-safe-update](https://github.com/cloudn8ive/hermes-safe-update): a careful
   updater for the Hermes Agent desktop app (Windows; macOS and Linux builds untested).
   It waits for running work, verifies the result, and includes a workaround that backs
